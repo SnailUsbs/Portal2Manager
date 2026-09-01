@@ -7,4 +7,4 @@ Currently just a simple rewrite of PortalManager , but with paths updated for Po
 
 - The current version is just a reskined version of PortalManager I made to quickly handle messing with the portal 2 beta using the official portal 2 client. 
 
-- For more info before Portal2Manager is finished, please check the PortalManager repo:
+- For more info before Portal2Manager is finished, please check the PortalManager repo: https://github.com/SnailUsbs/PortalManager
